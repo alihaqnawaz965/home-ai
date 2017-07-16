@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../RtAudio.h
+string
+-
+vector
+-
+exception
+-
+iostream
+-
+windows.h
+-
+process.h
+-
+pthread.h
+-
+sys/time.h
+-
+sstream
+-
+CoreAudio/AudioHardware.h
+-
+
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/teststops.cpp
+RtAudio.h
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/RtAudio.h
+iostream
+-
+cstdlib
+-
+cstring
+-
+cstdio
+-
+windows.h
+-
+unistd.h
+-
+

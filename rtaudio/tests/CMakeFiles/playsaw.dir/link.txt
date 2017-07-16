@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/playsaw.dir/playsaw.o  -o playsaw -rdynamic -lrtaudio_static 

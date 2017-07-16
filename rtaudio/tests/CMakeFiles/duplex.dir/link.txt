@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/duplex.dir/duplex.o  -o duplex -rdynamic -lrtaudio_static 

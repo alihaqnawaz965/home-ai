@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testall.dir/testall.o  -o testall -rdynamic -lrtaudio_static 

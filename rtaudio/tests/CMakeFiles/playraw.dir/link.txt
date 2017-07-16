@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/playraw.dir/playraw.o  -o playraw -rdynamic -lrtaudio_static 

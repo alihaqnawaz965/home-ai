@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/teststops.dir/teststops.o  -o teststops -rdynamic -lrtaudio_static 

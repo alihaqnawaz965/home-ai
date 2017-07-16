@@ -1,0 +1,9 @@
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/edit_cache.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/teststops.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/testall.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/audioprobe.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/playraw.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/playsaw.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/rebuild_cache.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/duplex.dir
+/home/car/grpc/examples/cpp/embedded_assistant/rtaudio/tests/CMakeFiles/record.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/record.dir/record.o  -o record -rdynamic -lrtaudio_static 
