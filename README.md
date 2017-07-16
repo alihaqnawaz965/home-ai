@@ -11,7 +11,7 @@ https://developers.google.com/assistant/sdk/prototype/getting-started-other-plat
 ISSUES :-
 Some errors come on compiling with following command:-
 
-car@ubuntu:~/grpc/examples/cpp/embedded_assistant$ g++ -I./ ea_main.cc embedded_assistant.grpc.pb.cc embedded_assistant.pb.cc -lpthread -lgrpc++ -lprotobuf -ldl -std=c++11 -o out
+car@ubuntu:~/grpc/examples/cpp/embedded_assistant$ g++ -I./ ea_main.cc embedded_assistant.grpc.pb.cc -lpthread -lgrpc++ -lprotobuf -ldl -std=c++11 -o out
 
 Some times the error is 
 
