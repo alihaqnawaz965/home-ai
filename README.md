@@ -29,7 +29,9 @@ collect2: error: ld returned 1 exit status
 
 Maybe some library is not included but I dont know which.
 
-But know the following error occurs:-
+And sometimes the following error occurs:-
+
+
 ea_main.cc:42:40: error: ISO C++ forbids declaration of ‘encoding’ with no type [-fpermissive]
  AudioInConfig MakeAudioInConfig(const &encoding, long sample_rate_hertz){
                                         ^
